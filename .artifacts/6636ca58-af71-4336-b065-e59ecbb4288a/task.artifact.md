@@ -1,0 +1,16 @@
+- [x] **Security & Privacy (PII Protection)**
+    - [x] Upgrade `SecurityUtils.kt` to use AES-256-GCM with `AndroidKeyStore`.
+    - [x] Update `UserRepository.kt` to encrypt NID. (Note: NID encryption added to storage logic).
+    - [x] Update `MarriageRepository.kt` to encrypt party and witness NIDs.
+- [x] **Marriage Registration Refinement**
+    - [x] Update `RegistrationViewModel.kt` to handle server-side IDs and basic validation.
+    - [x] Update `RegistrationFormScreen.kt` with disclaimer step and field validation.
+- [x] **Architecture & Code Quality**
+    - [x] Update `KabinCalculator.kt` with authoritative disclaimer.
+    - [x] Refine `DashboardScreen.kt` UI actions and role display.
+- [x] **Localization**
+    - [x] Update `values/strings.xml`.
+    - [x] Update `values-bn/strings.xml`.
+- [ ] **Verification**
+    - [x] Run `gradle build`.
+    - [ ] Manual verification of flows.

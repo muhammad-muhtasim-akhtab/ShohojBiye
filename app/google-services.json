@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646023114781",
+    "project_id": "shohoj-biye",
+    "storage_bucket": "shohoj-biye.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646023114781:android:f4c30d5a1acc1e441c16f4",
+        "android_client_info": {
+          "package_name": "com.example.shohojbiye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8eGyVAGtMSBnGu2m4FjbHUqbZ9MCimLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
